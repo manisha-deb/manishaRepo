@@ -1,0 +1,40 @@
+ Designer module
+ =================================
+Designer module - Projects
+Designer module - Integrations
+Designer module -   Services
+Designer module - Plugs	
+Designer module - Data Objects 
+Designer module - Connections - Application connectors 				
+Designer module - Connections -	Transport connectors 		
+Designer module - Connections -	System components 
+Designer module - iMaps
+Designer module - Multi-step functions
+Designer module - Java services	
+Designer module - Cross reference	
+Designer module - APIs and Governance Rules	
+
+  
+	
+
+	Manager 
+==============================
+Manager - Manage users and roles
+Manager - Manage teams of users
+Manager - Manage events
+Manager - Manage the environments
+Manager - Manage deployments 
+Manager - Manage data security
+Manager - About the document store
+Manager - Manage consumer applications
+Manager - Manage single sign-on
+
+Monitor
+
+=================
+Monitor - Transactions
+Monitor - Queues
+Monitor - Reports
+
+	
+	
